@@ -1,0 +1,19 @@
+Traceback (most recent call last):
+  File "/n/holylfs05/LABS/arguelles_delgado_lab/Everyone/msliu/stats/past stats/stats_mult.py", line 27, in <module>
+    get_min_efficiency = create_get_min_efficiency()
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/n/holylfs05/LABS/arguelles_delgado_lab/Everyone/msliu/stats/past stats/stats_mult.py", line 11, in create_get_min_efficiency
+    m_n, mu_decay, e_decay = np.loadtxt(filename, skiprows=skip_rows, usecols=(0, 1, 2), unpack=True)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/n/holylfs05/LABS/arguelles_delgado_lab/Everyone/msliu/siren_dn/lib/python3.12/site-packages/numpy/lib/npyio.py", line 1373, in loadtxt
+    arr = _read(fname, dtype=dtype, comment=comment, delimiter=delimiter,
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/n/holylfs05/LABS/arguelles_delgado_lab/Everyone/msliu/siren_dn/lib/python3.12/site-packages/numpy/lib/npyio.py", line 992, in _read
+    fh = np.lib._datasource.open(fname, 'rt', encoding=encoding)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/n/holylfs05/LABS/arguelles_delgado_lab/Everyone/msliu/siren_dn/lib/python3.12/site-packages/numpy/lib/_datasource.py", line 193, in open
+    return ds.open(path, mode, encoding=encoding, newline=newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/n/holylfs05/LABS/arguelles_delgado_lab/Everyone/msliu/siren_dn/lib/python3.12/site-packages/numpy/lib/_datasource.py", line 533, in open
+    raise FileNotFoundError(f"{path} not found.")
+FileNotFoundError: kaon_decay_efficiency_data.txt not found.

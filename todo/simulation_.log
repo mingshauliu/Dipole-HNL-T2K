@@ -1,0 +1,941 @@
+2024-11-10 11:14:08,633 - INFO - Starting parallel processing with 12 processes
+2024-11-10 11:14:08,710 - INFO - Initializing the three-portal model.
+2024-11-10 11:14:08,713 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,714 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,714 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,714 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,714 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,714 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,714 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,717 - INFO - Initializing the three-portal model.
+2024-11-10 11:14:08,718 - INFO - Initializing the three-portal model.
+2024-11-10 11:14:08,719 - INFO - Initializing the three-portal model.
+2024-11-10 11:14:08,719 - INFO - Initializing the three-portal model.
+2024-11-10 11:14:08,719 - INFO - Initializing the three-portal model.
+2024-11-10 11:14:08,720 - INFO - Initializing the three-portal model.
+2024-11-10 11:14:08,720 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,720 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,720 - INFO - Initializing the three-portal model.
+2024-11-10 11:14:08,720 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,720 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,720 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,720 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,720 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,721 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,720 - INFO - Initializing the three-portal model.
+2024-11-10 11:14:08,720 - INFO - Initializing the three-portal model.
+2024-11-10 11:14:08,720 - INFO - Initializing the three-portal model.
+2024-11-10 11:14:08,721 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,721 - INFO - Initializing the three-portal model.
+2024-11-10 11:14:08,721 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,721 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,721 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,721 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,721 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,721 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,721 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,722 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,722 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,722 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,722 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,722 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,722 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,722 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,722 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,722 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,722 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,722 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,722 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,722 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,722 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,722 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,722 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,722 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,722 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,722 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,722 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,723 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,723 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,723 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,723 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,723 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,723 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,723 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,723 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,723 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,723 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,723 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,723 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,723 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,723 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,723 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,723 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,723 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,723 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,723 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,723 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,723 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,723 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,723 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,723 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,723 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,723 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,723 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,723 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,723 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,723 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,723 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,723 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,723 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,723 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,723 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,724 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,724 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,724 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,724 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,724 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:14:08,724 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:39:59,952 - INFO - Successfully completed simulation for m4=0.6161550277583343, tr4=7.742636826811278e-07
+2024-11-10 11:40:00,119 - INFO - Initializing the three-portal model.
+2024-11-10 11:40:00,122 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:40:00,123 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:40:00,123 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:40:00,123 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:40:00,123 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:40:00,123 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:40:00,123 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:40:17,461 - INFO - Successfully completed simulation for m4=0.6161550277583343, tr4=1.668100537200059e-07
+2024-11-10 11:40:17,621 - INFO - Initializing the three-portal model.
+2024-11-10 11:40:17,624 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:40:17,624 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:40:17,624 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:40:17,624 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:40:17,624 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:40:17,624 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:40:17,624 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:41:59,600 - INFO - Successfully completed simulation for m4=0.18982350911593698, tr4=2.782559402207126e-07
+2024-11-10 11:41:59,764 - INFO - Initializing the three-portal model.
+2024-11-10 11:41:59,766 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:41:59,766 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:41:59,766 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:41:59,766 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:41:59,766 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:41:59,767 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:41:59,767 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:42:42,637 - INFO - Successfully completed simulation for m4=0.18982350911593698, tr4=2.1544346900318822e-06
+2024-11-10 11:42:42,800 - INFO - Initializing the three-portal model.
+2024-11-10 11:42:42,802 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:42:42,802 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:42:42,802 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:42:42,802 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:42:42,803 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:42:42,803 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:42:42,803 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:42:55,661 - INFO - Successfully completed simulation for m4=0.18982350911593698, tr4=1.2915496650148827e-06
+2024-11-10 11:42:55,825 - INFO - Initializing the three-portal model.
+2024-11-10 11:42:55,828 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:42:55,828 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:42:55,828 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:42:55,828 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:42:55,828 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:42:55,828 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:42:55,828 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:43:25,583 - INFO - Successfully completed simulation for m4=0.10536102768906644, tr4=2.1544346900318822e-06
+2024-11-10 11:43:25,756 - INFO - Initializing the three-portal model.
+2024-11-10 11:43:25,758 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:43:25,758 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:43:25,758 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:43:25,758 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:43:25,758 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:43:25,758 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:43:25,758 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:44:30,216 - INFO - Successfully completed simulation for m4=0.058480354764257315, tr4=1e-07
+2024-11-10 11:44:30,381 - INFO - Initializing the three-portal model.
+2024-11-10 11:44:30,383 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:44:30,383 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:44:30,383 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:44:30,384 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:44:30,384 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:44:30,384 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:44:30,384 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:44:39,500 - INFO - Successfully completed simulation for m4=0.058480354764257315, tr4=4.641588833612782e-07
+2024-11-10 11:44:39,667 - INFO - Initializing the three-portal model.
+2024-11-10 11:44:39,669 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:44:39,669 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:44:39,670 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:44:39,670 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:44:39,670 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:44:39,670 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:44:39,670 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:50:52,871 - INFO - Successfully completed simulation for m4=0.032459363470201695, tr4=2.1544346900318822e-06
+2024-11-10 11:50:53,034 - INFO - Initializing the three-portal model.
+2024-11-10 11:50:53,041 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:50:53,041 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:50:53,041 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:50:53,041 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:50:53,041 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:50:53,042 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:50:53,042 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:52:45,285 - INFO - Successfully completed simulation for m4=0.01801648230654411, tr4=7.742636826811278e-07
+2024-11-10 11:52:45,447 - INFO - Initializing the three-portal model.
+2024-11-10 11:52:45,450 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:52:45,450 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:52:45,450 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:52:45,450 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:52:45,450 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:52:45,450 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:52:45,450 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:52:56,279 - INFO - Successfully completed simulation for m4=0.01801648230654411, tr4=1.668100537200059e-07
+2024-11-10 11:52:56,437 - INFO - Initializing the three-portal model.
+2024-11-10 11:52:56,440 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:52:56,440 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:52:56,440 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:52:56,440 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:52:56,440 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:52:56,440 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:52:56,440 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:54:02,641 - INFO - Successfully completed simulation for m4=0.01, tr4=3.5938136638046257e-06
+2024-11-10 11:54:02,804 - INFO - Initializing the three-portal model.
+2024-11-10 11:54:02,806 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:54:02,806 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:54:02,806 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:54:02,806 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:54:02,807 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:54:02,807 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 11:54:02,807 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:09:22,287 - INFO - Successfully completed simulation for m4=0.6161550277583343, tr4=2.782559402207126e-07
+2024-11-10 12:09:22,473 - INFO - Initializing the three-portal model.
+2024-11-10 12:09:22,475 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:09:22,476 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:09:22,476 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:09:22,476 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:09:22,476 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:09:22,476 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:09:22,476 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:12:55,824 - INFO - Successfully completed simulation for m4=0.3419951893353393, tr4=2.1544346900318822e-06
+2024-11-10 12:12:56,014 - INFO - Initializing the three-portal model.
+2024-11-10 12:12:56,016 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:12:56,017 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:12:56,017 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:12:56,017 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:12:56,017 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:12:56,017 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:12:56,017 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:13:04,480 - INFO - Successfully completed simulation for m4=0.18982350911593698, tr4=2.1544346900318822e-06
+2024-11-10 12:13:04,661 - INFO - Initializing the three-portal model.
+2024-11-10 12:13:04,663 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:13:04,663 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:13:04,663 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:13:04,663 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:13:04,663 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:13:04,664 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:13:04,664 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:13:35,187 - INFO - Successfully completed simulation for m4=0.18982350911593698, tr4=1e-07
+2024-11-10 12:13:35,381 - INFO - Initializing the three-portal model.
+2024-11-10 12:13:35,384 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:13:35,384 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:13:35,384 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:13:35,384 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:13:35,384 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:13:35,384 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:13:35,384 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:14:02,718 - INFO - Successfully completed simulation for m4=0.18982350911593698, tr4=4.641588833612782e-07
+2024-11-10 12:14:02,905 - INFO - Initializing the three-portal model.
+2024-11-10 12:14:02,907 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:14:02,907 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:14:02,907 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:14:02,907 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:14:02,908 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:14:02,908 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:14:02,908 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:19:59,709 - INFO - Successfully completed simulation for m4=0.01801648230654411, tr4=1.2915496650148827e-06
+2024-11-10 12:19:59,910 - INFO - Initializing the three-portal model.
+2024-11-10 12:19:59,914 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:19:59,914 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:19:59,914 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:19:59,914 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:19:59,914 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:19:59,914 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:19:59,914 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:20:40,036 - INFO - Successfully completed simulation for m4=0.01801648230654411, tr4=2.782559402207126e-07
+2024-11-10 12:20:40,223 - INFO - Initializing the three-portal model.
+2024-11-10 12:20:40,225 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:20:40,226 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:20:40,226 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:20:40,226 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:20:40,226 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:20:40,226 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:20:40,226 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:22:37,389 - INFO - Successfully completed simulation for m4=0.058480354764257315, tr4=2.1544346900318822e-06
+2024-11-10 12:22:37,577 - INFO - Initializing the three-portal model.
+2024-11-10 12:22:37,580 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:22:37,580 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:22:37,580 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:22:37,580 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:22:37,580 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:22:37,580 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:22:37,580 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:23:58,469 - INFO - Successfully completed simulation for m4=0.058480354764257315, tr4=7.742636826811278e-07
+2024-11-10 12:23:58,648 - INFO - Initializing the three-portal model.
+2024-11-10 12:23:58,651 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:23:58,651 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:23:58,651 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:23:58,651 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:23:58,651 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:23:58,651 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:23:58,651 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:24:15,404 - INFO - Successfully completed simulation for m4=0.01, tr4=2.1544346900318822e-06
+2024-11-10 12:24:15,593 - INFO - Initializing the three-portal model.
+2024-11-10 12:24:15,595 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:24:15,595 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:24:15,596 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:24:15,596 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:24:15,596 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:24:15,596 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:24:15,596 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:24:17,124 - INFO - Successfully completed simulation for m4=0.058480354764257315, tr4=1.668100537200059e-07
+2024-11-10 12:24:17,309 - INFO - Initializing the three-portal model.
+2024-11-10 12:24:17,312 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:24:17,312 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:24:17,312 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:24:17,312 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:24:17,312 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:24:17,312 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:24:17,312 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:34:14,385 - INFO - Successfully completed simulation for m4=0.01801648230654411, tr4=3.5938136638046257e-06
+2024-11-10 12:34:14,577 - INFO - Initializing the three-portal model.
+2024-11-10 12:34:14,579 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:34:14,580 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:34:14,580 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:34:14,580 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:34:14,580 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:34:14,580 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:34:14,580 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:40:13,587 - INFO - Successfully completed simulation for m4=0.6161550277583343, tr4=2.1544346900318822e-06
+2024-11-10 12:40:13,792 - INFO - Initializing the three-portal model.
+2024-11-10 12:40:13,794 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:40:13,794 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:40:13,794 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:40:13,794 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:40:13,794 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:40:13,794 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:40:13,795 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:40:27,686 - INFO - Successfully completed simulation for m4=0.6161550277583343, tr4=1e-07
+2024-11-10 12:40:27,899 - INFO - Initializing the three-portal model.
+2024-11-10 12:40:27,901 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:40:27,902 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:40:27,902 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:40:27,902 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:40:27,902 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:40:27,902 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:40:27,902 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:41:47,439 - INFO - Successfully completed simulation for m4=0.6161550277583343, tr4=4.641588833612782e-07
+2024-11-10 12:41:47,647 - INFO - Initializing the three-portal model.
+2024-11-10 12:41:47,649 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:41:47,649 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:41:47,649 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:41:47,649 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:41:47,649 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:41:47,650 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:41:47,650 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:49:31,855 - INFO - Successfully completed simulation for m4=0.01801648230654411, tr4=4.641588833612782e-07
+2024-11-10 12:49:32,084 - INFO - Initializing the three-portal model.
+2024-11-10 12:49:32,093 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:49:32,093 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:49:32,093 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:49:32,093 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:49:32,094 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:49:32,094 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:49:32,094 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:51:53,885 - INFO - Successfully completed simulation for m4=0.058480354764257315, tr4=1.2915496650148827e-06
+2024-11-10 12:51:54,082 - INFO - Initializing the three-portal model.
+2024-11-10 12:51:54,084 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:51:54,084 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:51:54,084 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:51:54,084 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:51:54,084 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:51:54,084 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:51:54,084 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:52:46,610 - INFO - Successfully completed simulation for m4=0.058480354764257315, tr4=2.782559402207126e-07
+2024-11-10 12:52:46,807 - INFO - Initializing the three-portal model.
+2024-11-10 12:52:46,809 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:52:46,809 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:52:46,809 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:52:46,809 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:52:46,809 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:52:46,809 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:52:46,809 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:53:13,762 - INFO - Successfully completed simulation for m4=0.18982350911593698, tr4=1.668100537200059e-07
+2024-11-10 12:53:13,950 - INFO - Initializing the three-portal model.
+2024-11-10 12:53:13,952 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:53:13,952 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:53:13,952 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:53:13,952 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:53:13,952 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:53:13,952 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:53:13,952 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:53:18,021 - INFO - Successfully completed simulation for m4=0.18982350911593698, tr4=7.742636826811278e-07
+2024-11-10 12:53:18,210 - INFO - Initializing the three-portal model.
+2024-11-10 12:53:18,212 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:53:18,212 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:53:18,212 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:53:18,212 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:53:18,213 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:53:18,213 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:53:18,213 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:53:25,168 - INFO - Successfully completed simulation for m4=0.01801648230654411, tr4=1e-07
+2024-11-10 12:53:25,365 - INFO - Initializing the three-portal model.
+2024-11-10 12:53:25,367 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:53:25,367 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:53:25,367 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:53:25,368 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:53:25,368 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:53:25,368 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:53:25,368 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:53:27,238 - INFO - Successfully completed simulation for m4=0.10536102768906644, tr4=2.1544346900318822e-06
+2024-11-10 12:53:27,436 - INFO - Initializing the three-portal model.
+2024-11-10 12:53:27,438 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:53:27,438 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:53:27,438 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:53:27,438 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:53:27,438 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:53:27,438 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 12:53:27,438 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:04:48,222 - INFO - Successfully completed simulation for m4=0.01801648230654411, tr4=2.1544346900318822e-06
+2024-11-10 13:04:48,445 - INFO - Initializing the three-portal model.
+2024-11-10 13:04:48,450 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:04:48,451 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:04:48,451 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:04:48,451 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:04:48,451 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:04:48,451 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:04:48,451 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:11:37,191 - INFO - Successfully completed simulation for m4=0.058480354764257315, tr4=3.5938136638046257e-06
+2024-11-10 13:11:37,400 - INFO - Initializing the three-portal model.
+2024-11-10 13:11:37,402 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:11:37,403 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:11:37,403 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:11:37,403 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:11:37,403 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:11:37,403 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:11:37,403 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:12:25,863 - INFO - Successfully completed simulation for m4=0.032459363470201695, tr4=3.5938136638046257e-06
+2024-11-10 13:12:26,066 - INFO - Initializing the three-portal model.
+2024-11-10 13:12:26,069 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:12:26,069 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:12:26,069 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:12:26,069 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:12:26,069 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:12:26,069 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:12:26,069 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:13:07,661 - INFO - Successfully completed simulation for m4=0.10536102768906644, tr4=5.994842503189409e-06
+2024-11-10 13:13:07,872 - INFO - Initializing the three-portal model.
+2024-11-10 13:13:07,874 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:13:07,874 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:13:07,874 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:13:07,874 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:13:07,874 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:13:07,875 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:13:07,875 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:21:18,519 - INFO - Successfully completed simulation for m4=0.18982350911593698, tr4=2.782559402207126e-07
+2024-11-10 13:21:18,718 - INFO - Initializing the three-portal model.
+2024-11-10 13:21:18,721 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:21:18,721 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:21:18,721 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:21:18,721 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:21:18,721 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:21:18,721 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:21:18,721 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:21:22,399 - INFO - Successfully completed simulation for m4=0.10536102768906644, tr4=2.1544346900318822e-06
+2024-11-10 13:21:22,608 - INFO - Initializing the three-portal model.
+2024-11-10 13:21:22,611 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:21:22,611 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:21:22,611 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:21:22,611 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:21:22,611 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:21:22,611 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:21:22,612 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:21:29,038 - INFO - Successfully completed simulation for m4=0.18982350911593698, tr4=4.641588833612782e-07
+2024-11-10 13:21:29,252 - INFO - Initializing the three-portal model.
+2024-11-10 13:21:29,254 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:21:29,254 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:21:29,255 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:21:29,255 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:21:29,255 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:21:29,255 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:21:29,255 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:21:58,533 - INFO - Successfully completed simulation for m4=0.01, tr4=5.994842503189409e-06
+2024-11-10 13:21:58,755 - INFO - Initializing the three-portal model.
+2024-11-10 13:21:58,757 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:21:58,757 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:21:58,757 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:21:58,757 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:21:58,757 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:21:58,757 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:21:58,758 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:29:51,306 - INFO - Successfully completed simulation for m4=0.01801648230654411, tr4=1e-05
+2024-11-10 13:29:51,515 - INFO - Initializing the three-portal model.
+2024-11-10 13:29:51,518 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:29:51,518 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:29:51,518 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:29:51,518 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:29:51,518 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:29:51,518 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:29:51,518 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:31:46,540 - INFO - Successfully completed simulation for m4=0.01801648230654411, tr4=1.668100537200059e-07
+2024-11-10 13:31:46,738 - INFO - Initializing the three-portal model.
+2024-11-10 13:31:46,741 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:31:46,741 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:31:46,741 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:31:46,741 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:31:46,741 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:31:46,741 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:31:46,741 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:31:50,637 - INFO - Successfully completed simulation for m4=0.01801648230654411, tr4=1e-07
+2024-11-10 13:31:50,837 - INFO - Initializing the three-portal model.
+2024-11-10 13:31:50,839 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:31:50,839 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:31:50,839 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:31:50,839 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:31:50,839 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:31:50,839 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:31:50,840 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:33:04,559 - INFO - Successfully completed simulation for m4=0.18982350911593698, tr4=7.742636826811278e-07
+2024-11-10 13:33:04,769 - INFO - Initializing the three-portal model.
+2024-11-10 13:33:04,771 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:33:04,771 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:33:04,772 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:33:04,772 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:33:04,772 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:33:04,772 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:33:04,772 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:33:07,889 - INFO - Successfully completed simulation for m4=0.01, tr4=2.782559402207126e-07
+2024-11-10 13:33:08,079 - INFO - Initializing the three-portal model.
+2024-11-10 13:33:08,081 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:33:08,082 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:33:08,082 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:33:08,082 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:33:08,082 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:33:08,082 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:33:08,082 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:42:07,329 - INFO - Successfully completed simulation for m4=0.10536102768906644, tr4=3.5938136638046257e-06
+2024-11-10 13:42:07,589 - INFO - Initializing the three-portal model.
+2024-11-10 13:42:07,591 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:42:07,591 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:42:07,591 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:42:07,591 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:42:07,592 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:42:07,592 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:42:07,592 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:42:47,796 - INFO - Successfully completed simulation for m4=0.058480354764257315, tr4=1.2915496650148827e-06
+2024-11-10 13:42:48,011 - INFO - Initializing the three-portal model.
+2024-11-10 13:42:48,013 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:42:48,013 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:42:48,013 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:42:48,013 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:42:48,014 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:42:48,014 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:42:48,014 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:43:14,216 - INFO - Successfully completed simulation for m4=0.18982350911593698, tr4=5.994842503189409e-06
+2024-11-10 13:43:14,422 - INFO - Initializing the three-portal model.
+2024-11-10 13:43:14,425 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:43:14,425 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:43:14,425 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:43:14,425 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:43:14,425 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:43:14,425 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:43:14,425 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:50:28,039 - INFO - Successfully completed simulation for m4=0.10536102768906644, tr4=2.1544346900318822e-06
+2024-11-10 13:50:28,245 - INFO - Initializing the three-portal model.
+2024-11-10 13:50:28,248 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:50:28,248 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:50:28,248 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:50:28,248 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:50:28,248 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:50:28,248 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 13:50:28,248 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:00:08,826 - INFO - Successfully completed simulation for m4=0.01801648230654411, tr4=4.641588833612782e-07
+2024-11-10 14:00:09,033 - INFO - Initializing the three-portal model.
+2024-11-10 14:00:09,035 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:00:09,035 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:00:09,035 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:00:09,035 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:00:09,035 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:00:09,035 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:00:09,035 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:00:27,396 - INFO - Successfully completed simulation for m4=0.01801648230654411, tr4=7.742636826811278e-07
+2024-11-10 14:00:27,620 - INFO - Initializing the three-portal model.
+2024-11-10 14:00:27,623 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:00:27,623 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:00:27,623 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:00:27,623 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:00:27,623 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:00:27,623 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:00:27,623 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:00:35,218 - INFO - Successfully completed simulation for m4=0.6161550277583343, tr4=7.742636826811278e-07
+2024-11-10 14:00:35,437 - INFO - Initializing the three-portal model.
+2024-11-10 14:00:35,439 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:00:35,440 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:00:35,440 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:00:35,440 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:00:35,440 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:00:35,440 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:00:35,440 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:00:45,842 - INFO - Successfully completed simulation for m4=0.10536102768906644, tr4=2.1544346900318822e-06
+2024-11-10 14:00:46,065 - INFO - Initializing the three-portal model.
+2024-11-10 14:00:46,068 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:00:46,068 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:00:46,068 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:00:46,068 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:00:46,068 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:00:46,068 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:00:46,068 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:01:54,614 - INFO - Successfully completed simulation for m4=0.058480354764257315, tr4=1.668100537200059e-07
+2024-11-10 14:01:54,816 - INFO - Initializing the three-portal model.
+2024-11-10 14:01:54,818 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:01:54,818 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:01:54,818 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:01:54,818 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:01:54,818 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:01:54,818 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:01:54,818 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:02:07,934 - INFO - Successfully completed simulation for m4=0.01801648230654411, tr4=5.994842503189409e-06
+2024-11-10 14:02:08,170 - INFO - Initializing the three-portal model.
+2024-11-10 14:02:08,172 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:02:08,172 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:02:08,172 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:02:08,172 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:02:08,172 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:02:08,172 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:02:08,172 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:02:22,809 - INFO - Successfully completed simulation for m4=0.058480354764257315, tr4=1e-07
+2024-11-10 14:02:23,012 - INFO - Initializing the three-portal model.
+2024-11-10 14:02:23,014 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:02:23,015 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:02:23,015 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:02:23,015 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:02:23,015 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:02:23,015 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:02:23,015 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:11:49,462 - INFO - Successfully completed simulation for m4=0.01801648230654411, tr4=2.782559402207126e-07
+2024-11-10 14:11:49,687 - INFO - Initializing the three-portal model.
+2024-11-10 14:11:49,690 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:11:49,690 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:11:49,690 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:11:49,690 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:11:49,690 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:11:49,691 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:11:49,691 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:11:51,980 - INFO - Successfully completed simulation for m4=0.18982350911593698, tr4=1.2915496650148827e-06
+2024-11-10 14:11:52,193 - INFO - Initializing the three-portal model.
+2024-11-10 14:11:52,195 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:11:52,195 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:11:52,195 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:11:52,195 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:11:52,195 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:11:52,195 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:11:52,195 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:12:28,085 - INFO - Successfully completed simulation for m4=0.18982350911593698, tr4=3.5938136638046257e-06
+2024-11-10 14:12:28,288 - INFO - Initializing the three-portal model.
+2024-11-10 14:12:28,290 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:12:28,290 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:12:28,290 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:12:28,290 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:12:28,290 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:12:28,290 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:12:28,290 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:19:54,500 - INFO - Successfully completed simulation for m4=0.18982350911593698, tr4=2.1544346900318822e-06
+2024-11-10 14:19:54,702 - INFO - Initializing the three-portal model.
+2024-11-10 14:19:54,704 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:19:54,704 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:19:54,704 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:19:54,704 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:19:54,704 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:19:54,704 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:19:54,704 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:24:32,845 - INFO - Successfully completed simulation for m4=0.01, tr4=1e-05
+2024-11-10 14:24:33,044 - INFO - Initializing the three-portal model.
+2024-11-10 14:24:33,046 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:24:33,046 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:24:33,046 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:24:33,046 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:24:33,046 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:24:33,046 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:24:33,046 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:29:22,201 - INFO - Successfully completed simulation for m4=0.18982350911593698, tr4=1.668100537200059e-07
+2024-11-10 14:29:22,411 - INFO - Initializing the three-portal model.
+2024-11-10 14:29:22,413 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:29:22,414 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:29:22,414 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:29:22,414 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:29:22,414 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:29:22,414 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:29:22,414 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:30:16,350 - INFO - Successfully completed simulation for m4=0.18982350911593698, tr4=1e-07
+2024-11-10 14:30:16,578 - INFO - Initializing the three-portal model.
+2024-11-10 14:30:16,580 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:30:16,580 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:30:16,580 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:30:16,580 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:30:16,580 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:30:16,580 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:30:16,580 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:30:40,691 - INFO - Successfully completed simulation for m4=0.058480354764257315, tr4=4.641588833612782e-07
+2024-11-10 14:30:40,901 - INFO - Initializing the three-portal model.
+2024-11-10 14:30:40,903 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:30:40,904 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:30:40,904 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:30:40,904 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:30:40,904 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:30:40,904 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:30:40,904 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:30:47,870 - INFO - Successfully completed simulation for m4=0.18982350911593698, tr4=2.1544346900318822e-06
+2024-11-10 14:30:48,085 - INFO - Initializing the three-portal model.
+2024-11-10 14:30:48,087 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:30:48,087 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:30:48,088 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:30:48,088 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:30:48,088 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:30:48,088 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:30:48,088 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:31:12,605 - INFO - Successfully completed simulation for m4=0.058480354764257315, tr4=7.742636826811278e-07
+2024-11-10 14:31:12,847 - INFO - Initializing the three-portal model.
+2024-11-10 14:31:12,849 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:31:12,849 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:31:12,849 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:31:12,849 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:31:12,849 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:31:12,849 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:31:12,849 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:33:55,479 - INFO - Successfully completed simulation for m4=0.058480354764257315, tr4=5.994842503189409e-06
+2024-11-10 14:33:55,754 - INFO - Initializing the three-portal model.
+2024-11-10 14:33:55,756 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:33:55,756 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:33:55,756 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:33:55,757 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:33:55,757 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:33:55,757 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:33:55,757 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:39:41,984 - INFO - Successfully completed simulation for m4=0.01801648230654411, tr4=1.2915496650148827e-06
+2024-11-10 14:39:42,358 - INFO - Initializing the three-portal model.
+2024-11-10 14:39:42,362 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:39:42,363 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:39:42,363 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:39:42,363 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:39:42,363 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:39:42,363 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:39:42,363 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:41:57,118 - INFO - Successfully completed simulation for m4=0.058480354764257315, tr4=2.782559402207126e-07
+2024-11-10 14:49:01,073 - INFO - Successfully completed simulation for m4=0.10536102768906644, tr4=2.1544346900318822e-06
+2024-11-10 14:49:01,262 - INFO - Initializing the three-portal model.
+2024-11-10 14:49:01,272 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:49:01,272 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:49:01,273 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:49:01,273 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:49:01,273 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:49:01,273 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:49:01,273 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:51:08,096 - INFO - Successfully completed simulation for m4=0.01801648230654411, tr4=2.1544346900318822e-06
+2024-11-10 14:51:08,297 - INFO - Initializing the three-portal model.
+2024-11-10 14:51:08,299 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:51:08,299 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:51:08,299 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:51:08,299 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:51:08,299 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:51:08,299 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:51:08,299 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:52:04,011 - INFO - Successfully completed simulation for m4=0.01, tr4=2.1544346900318822e-06
+2024-11-10 14:58:04,299 - INFO - Successfully completed simulation for m4=0.3419951893353393, tr4=3.5938136638046257e-06
+2024-11-10 14:58:04,510 - INFO - Initializing the three-portal model.
+2024-11-10 14:58:04,512 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:58:04,512 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:58:04,512 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:58:04,512 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:58:04,512 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:58:04,513 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 14:58:04,513 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:01:02,636 - INFO - Successfully completed simulation for m4=0.18982350911593698, tr4=2.1544346900318822e-06
+2024-11-10 15:01:02,860 - INFO - Initializing the three-portal model.
+2024-11-10 15:01:02,862 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:01:02,862 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:01:02,863 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:01:02,863 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:01:02,863 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:01:02,863 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:01:02,863 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:01:54,250 - INFO - Successfully completed simulation for m4=0.10536102768906644, tr4=1e-05
+2024-11-10 15:01:54,449 - INFO - Initializing the three-portal model.
+2024-11-10 15:01:54,451 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:01:54,451 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:01:54,451 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:01:54,451 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:01:54,451 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:01:54,451 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:01:54,451 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:03:11,084 - INFO - Successfully completed simulation for m4=0.01801648230654411, tr4=3.5938136638046257e-06
+2024-11-10 15:03:11,290 - INFO - Initializing the three-portal model.
+2024-11-10 15:03:11,292 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:03:11,292 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:03:11,292 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:03:11,292 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:03:11,292 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:03:11,292 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:03:11,292 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:07:03,291 - INFO - Successfully completed simulation for m4=0.6161550277583343, tr4=7.742636826811278e-07
+2024-11-10 15:07:03,511 - INFO - Initializing the three-portal model.
+2024-11-10 15:07:03,513 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:07:03,513 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:07:03,514 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:07:03,514 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:07:03,514 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:07:03,514 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:07:03,514 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:08:58,238 - INFO - Successfully completed simulation for m4=0.01801648230654411, tr4=5.994842503189409e-06
+2024-11-10 15:08:58,478 - INFO - Initializing the three-portal model.
+2024-11-10 15:08:58,480 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:08:58,481 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:08:58,481 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:08:58,481 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:08:58,481 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:08:58,481 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:08:58,481 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:10:41,761 - INFO - Successfully completed simulation for m4=0.01, tr4=1e-05
+2024-11-10 15:10:41,970 - INFO - Initializing the three-portal model.
+2024-11-10 15:10:41,973 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:10:41,973 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:10:41,973 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:10:41,973 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:10:41,973 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:10:41,973 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:10:41,973 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:10:48,200 - INFO - Successfully completed simulation for m4=0.032459363470201695, tr4=4.641588833612782e-07
+2024-11-10 15:10:48,439 - INFO - Initializing the three-portal model.
+2024-11-10 15:10:48,442 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:10:48,442 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:10:48,442 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:10:48,442 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:10:48,442 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:10:48,442 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:10:48,442 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:18:21,744 - INFO - Successfully completed simulation for m4=0.18982350911593698, tr4=2.1544346900318822e-06
+2024-11-10 15:18:21,938 - INFO - Initializing the three-portal model.
+2024-11-10 15:18:21,941 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:18:21,941 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:18:21,941 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:18:21,941 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:18:21,941 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:18:21,941 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:18:21,941 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:23:56,707 - INFO - Successfully completed simulation for m4=0.6161550277583343, tr4=3.5938136638046257e-06
+2024-11-10 15:23:56,937 - INFO - Initializing the three-portal model.
+2024-11-10 15:23:56,939 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:23:56,939 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:23:56,940 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:23:56,940 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:23:56,940 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:23:56,940 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:23:56,940 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:27:45,551 - INFO - Successfully completed simulation for m4=0.032459363470201695, tr4=2.1544346900318822e-06
+2024-11-10 15:27:45,756 - INFO - Initializing the three-portal model.
+2024-11-10 15:27:45,758 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:27:45,758 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:27:45,758 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:27:45,758 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:27:45,758 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:27:45,758 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:27:45,759 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:32:25,104 - INFO - Successfully completed simulation for m4=0.18982350911593698, tr4=1e-05
+2024-11-10 15:32:25,297 - INFO - Initializing the three-portal model.
+2024-11-10 15:32:25,299 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:32:25,300 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:32:25,300 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:32:25,300 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:32:25,300 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:32:25,300 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:32:25,300 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:36:20,684 - INFO - Successfully completed simulation for m4=0.10536102768906644, tr4=2.1544346900318822e-06
+2024-11-10 15:36:20,909 - INFO - Initializing the three-portal model.
+2024-11-10 15:36:20,911 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:36:20,911 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:36:20,911 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:36:20,911 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:36:20,911 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:36:20,911 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:36:20,911 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:39:37,165 - INFO - Successfully completed simulation for m4=0.032459363470201695, tr4=3.5938136638046257e-06
+2024-11-10 15:39:37,371 - INFO - Initializing the three-portal model.
+2024-11-10 15:39:37,373 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:39:37,373 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:39:37,373 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:39:37,373 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:39:37,374 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:39:37,374 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:39:37,374 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:40:56,870 - INFO - Successfully completed simulation for m4=0.058480354764257315, tr4=4.641588833612782e-07
+2024-11-10 15:40:57,099 - INFO - Initializing the three-portal model.
+2024-11-10 15:40:57,101 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:40:57,101 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:40:57,101 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:40:57,101 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:40:57,101 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:40:57,101 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:40:57,102 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:41:06,093 - INFO - Successfully completed simulation for m4=0.01, tr4=1.668100537200059e-07
+2024-11-10 15:41:06,319 - INFO - Initializing the three-portal model.
+2024-11-10 15:41:06,321 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:41:06,321 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:41:06,321 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:41:06,321 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:41:06,321 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:41:06,321 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:41:06,322 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:45:14,534 - INFO - Successfully completed simulation for m4=0.032459363470201695, tr4=5.994842503189409e-06
+2024-11-10 15:45:14,758 - INFO - Initializing the three-portal model.
+2024-11-10 15:45:14,761 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:45:14,761 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:45:14,761 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:45:14,761 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:45:14,761 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:45:14,761 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:45:14,761 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:49:19,487 - INFO - Successfully completed simulation for m4=0.01801648230654411, tr4=1e-05
+2024-11-10 15:49:19,661 - INFO - Initializing the three-portal model.
+2024-11-10 15:49:19,664 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:49:19,664 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:49:19,664 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:49:19,664 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:49:19,664 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:49:19,664 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:49:19,664 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-10 15:58:06,051 - INFO - Successfully completed simulation for m4=0.058480354764257315, tr4=2.1544346900318822e-06
+2024-11-10 15:58:15,884 - INFO - Successfully completed simulation for m4=0.01, tr4=3.5938136638046257e-06
+2024-11-10 16:01:20,962 - INFO - Successfully completed simulation for m4=0.10536102768906644, tr4=2.1544346900318822e-06
+2024-11-10 16:03:21,296 - INFO - Successfully completed simulation for m4=0.01, tr4=5.994842503189409e-06
+2024-11-10 16:05:34,301 - INFO - Successfully completed simulation for m4=0.18982350911593698, tr4=2.1544346900318822e-06
+2024-11-10 16:09:10,446 - INFO - Successfully completed simulation for m4=0.058480354764257315, tr4=3.5938136638046257e-06
+2024-11-10 16:10:23,714 - INFO - Successfully completed simulation for m4=0.3419951893353393, tr4=7.742636826811278e-07
+2024-11-10 16:15:24,909 - INFO - Successfully completed simulation for m4=0.058480354764257315, tr4=5.994842503189409e-06
+2024-11-10 16:18:32,886 - INFO - Successfully completed simulation for m4=0.058480354764257315, tr4=1e-05
+2024-11-10 16:19:41,275 - INFO - Successfully completed simulation for m4=0.01801648230654411, tr4=1.668100537200059e-07
+2024-11-10 16:19:41,750 - INFO - 
+Simulation Summary:
+2024-11-10 16:19:41,750 - INFO - Total runtime: 5:05:33.115021
+2024-11-10 16:19:41,750 - INFO - Total simulations: 102
+2024-11-10 16:19:41,750 - INFO - Successful: 102
+2024-11-10 16:19:41,751 - INFO - Failed: 0
+2024-11-14 10:47:46,158 - INFO - Starting parallel processing with 12 processes
+2024-11-14 10:47:46,803 - INFO - Initializing the three-portal model.
+2024-11-14 10:47:46,939 - WARNING - Warning: nuclear density for He4 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-14 10:47:47,119 - WARNING - Warning: nuclear density for Fe57 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-14 10:47:47,119 - WARNING - Warning: nuclear density for N14 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-14 10:47:47,120 - WARNING - Warning: nuclear density for F19 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-14 10:47:47,120 - WARNING - Warning: nuclear density for Ti46 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-14 10:47:47,120 - WARNING - Warning: nuclear density for Ti47 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-14 10:47:47,120 - WARNING - Warning: nuclear density for Ti49 not tabulated in Nuclear Data Table. Using symmetrized Fermi form factor instead.
+2024-11-14 11:14:21,453 - INFO - Successfully completed simulation for m4=1.1100946155696227, tr4=1.668100537200059e-07
+2024-11-14 11:14:21,869 - INFO - 
+Simulation Summary:
+2024-11-14 11:14:21,870 - INFO - Total runtime: 0:26:35.540421
+2024-11-14 11:14:21,870 - INFO - Total simulations: 1
+2024-11-14 11:14:21,870 - INFO - Successful: 1
+2024-11-14 11:14:21,870 - INFO - Failed: 0
