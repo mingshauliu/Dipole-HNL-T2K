@@ -1,0 +1,8 @@
+output_1E-6/
+output_1E-6_bar/
+output_prob_1E-6/
+output_prob_1E-6_bar/
+deprecated/
+
+*.err
+*.out

@@ -1,0 +1,28 @@
+# Text and Font settings
+text.usetex : False
+font.family : sans-serif
+font.sans-serif : Arial, DejaVu Sans, Helvetica, sans-serif
+mathtext.fontset : dejavusans
+font.size : 16
+
+# Image settings
+image.cmap : YlGnBu
+
+# Figure settings
+figure.figsize : 10, 8
+figure.dpi : 100
+
+# Axes settings
+axes.labelsize : 16
+axes.titlesize : 18
+
+# Tick settings
+xtick.labelsize : 14
+ytick.labelsize : 14
+
+# Legend settings
+legend.fontsize : 12
+
+# Saving figure settings
+savefig.dpi : 300
+savefig.format : pdf

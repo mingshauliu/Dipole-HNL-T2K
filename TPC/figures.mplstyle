@@ -1,0 +1,4 @@
+font.size:14
+
+image.cmap: BuPu
+axes.prop_cycle: cycler('color', ["goldenrod","lightseagreen","mediumvioletred","blue"])
