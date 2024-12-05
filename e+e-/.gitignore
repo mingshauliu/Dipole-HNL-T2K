@@ -1,1 +1,4 @@
 output/
+output_bar/
+*.err
+*.out
