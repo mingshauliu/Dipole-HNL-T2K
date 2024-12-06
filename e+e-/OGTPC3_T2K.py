@@ -44,7 +44,7 @@ def HNL_siren(m4):
         xs_path,
         "Dipole_M%2.2e_Umu%2.2e" % (model_kwargs["m4"], model_kwargs["Umu4"]),
     )
-    controller.InputDarkNewsModel(primary_type, table_dir, **model_kwargs, upscattering=False)
+    controller.InputDarkNewsModel(primary_type, table_dir, upscattering=False, **model_kwargs)
 
     # Primary distributions
     primary_injection_distributions = {}

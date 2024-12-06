@@ -30,9 +30,10 @@ def generate_hnl_events(m, events_to_inject=100000, experiment="OGTPC3"):
     primary_type = siren.dataclasses.Particle.ParticleType.N4
     xs_path = siren.utilities.get_cross_section_model_path(f"DarkNewsTables-v{siren.utilities.darknews_version()}", must_exist=False)
     
-    table_dir = os.path.join(xs_path, f"Dipole_M{m:.2e}_Umu{U:.2e}")
-    controller.InputDarkNewsModel(primary_type, table_dir, **model_kwargs, upscattering=False)
-
+    table_dir = os.path.join(xs_path, f"Minimal_M{m:.2e}_Umu{U:.2e}")
+    
+    controller.InputDarkNewsModel(primary_type, table_dir, upscattering=False, **model_kwargs)
+    
     flux_file = siren.utilities.get_tabulated_flux_file("N_Inject", "numu_PLUS")
     mdist = siren.distributions.PrimaryMass(m)
     edist = siren.distributions.TabulatedFluxDistribution(flux_file, True)
