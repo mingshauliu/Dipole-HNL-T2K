@@ -77,8 +77,8 @@ def load_data(exp, m, mu, POT):
     path = f"{exp}_Dipole_M%2.2e_mu%2.2e_example.parquet" % (m, mu)
     
     try:
-        if os.path.isfile('../output_nu_NewVol_V2/' + path):
-            data = ak.from_parquet("../output_nu_NewVol_V2/" + path)
+        if os.path.isfile('../MC/output_nu_NEW/' + path):
+            data = ak.from_parquet("../MC/output_nu_NEW/" + path)
             
             dec_flag = data["primary_type"] == 5914
             fid_flag = data["in_fiducial"][dec_flag]

@@ -107,7 +107,7 @@ def parallel_process(data1, data2):
     num_cores = multiprocessing.cpu_count()
     
     # Create a pool of worker processes
-    with multiprocessing.Pool(processes=int(num_cores)) as pool:
+    with multiprocessing.Pool(processes=int(num_cores/2)) as pool:
         # Use starmap to pass multiple arguments to the worker function
         results = pool.starmap(HNL_siren, zip(data1, data2))
         
@@ -153,10 +153,10 @@ if __name__ == '__main__':
     results = parallel_process(m_sample, mu_sample)
 
     # Save results to a file
-    output_filename = "./OGTPC2.txt"
-    save_results_to_file(results, output_filename)
+    # output_filename = "./OGTPC2.txt"
+    # save_results_to_file(results, output_filename)
 
-    print(f"Results have been saved to {output_filename}")
+    # print(f"Results have been saved to {output_filename}")
 
 # with open('recording.txt', 'a') as file:
 

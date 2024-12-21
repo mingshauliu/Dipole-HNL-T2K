@@ -19,6 +19,7 @@ def generate_hnl_events(m, events_to_inject=100000, experiment="OGTPC3"):
         "mu_tr_mu4": 0,
         "UD4": 0,
         "Umu4": U,
+        "Ue4": 0,
         "epsilon": 0.0,
         "gD": 0.0,
         "decay_product": "e+e-",
@@ -30,7 +31,7 @@ def generate_hnl_events(m, events_to_inject=100000, experiment="OGTPC3"):
     primary_type = siren.dataclasses.Particle.ParticleType.N4
     xs_path = siren.utilities.get_cross_section_model_path(f"DarkNewsTables-v{siren.utilities.darknews_version()}", must_exist=False)
     
-    table_dir = os.path.join(xs_path, f"Minimal_M{m:.2e}_Umu{U:.2e}")
+    table_dir = os.path.join(xs_path, f"Minimal_M{m:.2e}_Ue{U:.2e}")
     
     controller.InputDarkNewsModel(primary_type, table_dir, upscattering=False, **model_kwargs)
     
@@ -92,7 +93,7 @@ def main():
     # for result in results:
     #     print(result)
     
-    generate_hnl_events(ms[0])
+    generate_hnl_events(ms[4])
 
 if __name__ == "__main__":
     main()

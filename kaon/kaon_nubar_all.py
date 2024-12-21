@@ -9,12 +9,12 @@ def generate_hnl_events(m, U, events_to_inject=100000, experiment="OGTPC1"):
     
     path="OGTPC1_Dipole_M%2.2e_Umu%2.2e_example.parquet"%(m,U)
     
-    if os.path.isfile(f"output_prob_2E-6_bar/{path}"): 
+    if os.path.isfile(f"test/{path}"): 
         return f"File {path} already exists"
     
     model_kwargs = {
         "m4": m,
-        "mu_tr_mu4": 2e-6,
+        "mu_tr_mu4": 1e-6,
         "UD4": 0,
         "Umu4": U,
         "epsilon": 0.0,
@@ -31,7 +31,7 @@ def generate_hnl_events(m, U, events_to_inject=100000, experiment="OGTPC1"):
     table_dir = os.path.join(xs_path, f"Dipole_M{m:.2e}_Umu{U:.2e}")
     controller.InputDarkNewsModel(primary_type, table_dir, **model_kwargs)
 
-    flux_file = siren.utilities.get_tabulated_flux_file("N_Inject", "numubar_MINUS")
+    flux_file = siren.utilities.get_tabulated_flux_file("N_Inject", "numu_PLUS")
     mdist = siren.distributions.PrimaryMass(m)
     edist = siren.distributions.TabulatedFluxDistribution(flux_file, True)
     edist_gen = siren.distributions.TabulatedFluxDistribution(m * 1.01, 30, flux_file, False)
@@ -63,8 +63,8 @@ def generate_hnl_events(m, U, events_to_inject=100000, experiment="OGTPC1"):
 
     events = controller.GenerateEvents(fill_tables_at_exit=False)
     
-    os.makedirs("output_prob_2E-6_bar", exist_ok=True)
-    controller.SaveEvents(f"output_prob_2E-6_bar/{experiment}_Dipole_M{m:.2e}_Umu{U:.2e}_example", fill_tables_at_exit=True, save_int_probs=True)
+    os.makedirs("test", exist_ok=True)
+    controller.SaveEvents(f"test/{experiment}_Dipole_M{m:.2e}_Umu{U:.2e}_example", fill_tables_at_exit=True, save_int_probs=True)
 
     return f"Completed: m={m:.2e}, U={U:.2e}"
 
@@ -87,8 +87,9 @@ def main():
     # for result in results:
     #     print(result)
     
-    for m, u in zip(m_sample, U_sample):
-        generate_hnl_events(m,u)
+    # for m, u in zip(m_sample, U_sample):
+    #     generate_hnl_events(m,u)
+    generate_hnl_events(m_sample[0],U_sample[0])
 
 if __name__ == "__main__":
     main()

@@ -1,4 +1,3 @@
-import awkward as awk
 import numpy as np
 import os
 import siren
@@ -92,10 +91,6 @@ def HNL_siren(m4, tr4):
         fill_tables_at_exit=True
     )
     
-    path="OGTPC1_Dipole_M%2.2e_mu%2.2e_example.parquet"%(m4,tr4)
-    data = awk.from_parquet("output/"+path)
-    flag = data["secondary_types"]==22 * data["in_fiducial"]
-    return [m4,tr4,np.sum(np.transpose(data["event_weight"]*flag*POT)[1][1])*0.0006]
 
 def save_results_to_file(results, filename):
     with open(filename, 'w') as file:
@@ -150,13 +145,15 @@ if __name__ == '__main__':
     #         file.write(', '.join(map(str, result)))
 
 
-    results = parallel_process(m_sample, mu_sample)
+    # results = parallel_process(m_sample, mu_sample)
+    
+    HNL_siren(m_sample[0], mu_sample[0])
 
     # Save results to a file
-    output_filename = "./OGTPC1.txt"
-    save_results_to_file(results, output_filename)
+    # output_filename = "./OGTPC1.txt"
+    # save_results_to_file(results, output_filename)
 
-    print(f"Results have been saved to {output_filename}")
+    # print(f"Results have been saved to {output_filename}")
 
 # with open('recording.txt', 'a') as file:
 

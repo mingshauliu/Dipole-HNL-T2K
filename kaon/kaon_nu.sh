@@ -16,7 +16,7 @@ module load python
 mamba activate /n/holylfs05/LABS/arguelles_delgado_lab/Everyone/msliu/siren_dev
 
 # Run your job, outputting results to SCRATCH
-python3 kaon_nu_all.py
+python3 Kdecay_nu_parallel.py
 
 # After job completes, copy important results to home directory
 # cp $SCRATCH_DIR/output.txt $HOME_DIR/

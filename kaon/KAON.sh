@@ -1,8 +1,8 @@
 #!/bin/bash
-#SBATCH -n 16                   # Number of cores (-c)
+#SBATCH -n 32                   # Number of cores (-c)
 #SBATCH -t 1-00:00              # Runtime in D-HH:MM, minimum of 10 minutes
-#SBATCH -p shared               # Partition to submit to
-#SBATCH --mem=8G               # Memory pool for all cores (see also --mem-per-cpu)
+#SBATCH -p shared      # Partition to submit to
+#SBATCH --mem=64G               # Memory pool for all cores (see also --mem-per-cpu)
 #SBATCH --open-mode=append
 #SBATCH -o myoutput_%j.out      # File to which STDOUT will be written, %j inserts jobid
 #SBATCH -e myerrors_%j.err      # File to which STDERR will be written, %j inserts jobid
@@ -13,10 +13,11 @@
 module load python
 
 # Activate the 'siren_dn' environment
-mamba activate /n/holylfs05/LABS/arguelles_delgado_lab/Everyone/msliu/siren_dev
+mamba activate /n/holylfs05/LABS/arguelles_delgado_lab/Everyone/msliu/siren_new
 
 # Run your job, outputting results to SCRATCH
-python3 kaon_nubar_parallel.py
+python3 KAON_parallel.py
+
 
 # After job completes, copy important results to home directory
 # cp $SCRATCH_DIR/output.txt $HOME_DIR/
