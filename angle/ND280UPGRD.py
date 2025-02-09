@@ -135,16 +135,16 @@ def get_new_sample():
 
 if __name__ == '__main__':
     
-    n_m = 10
-    n_mu = 10
+    n_m = 20
+    n_mu = 20
     m_sample = np.geomspace(1e-2,2,n_m)
     mu_sample = np.geomspace(1e-7,1e-5,n_mu)
     m_sample, mu_sample = np.meshgrid(m_sample, mu_sample)
     m_sample = np.reshape(m_sample,[n_m*n_mu])
     mu_sample = np.reshape(mu_sample,[n_m*n_mu])
 
-    m_sample = m_sample[0:10]
-    mu_sample = mu_sample[0:10]
+    m_sample = m_sample[0:20]
+    mu_sample = mu_sample[0:20]
 
     results = parallel_process(m_sample, mu_sample)
     
