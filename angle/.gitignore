@@ -1,0 +1,6 @@
+*.err
+*.out
+
+dipHNL_OGTPC/
+dipHNL_TPC/
+minHNL_OGTPC/
